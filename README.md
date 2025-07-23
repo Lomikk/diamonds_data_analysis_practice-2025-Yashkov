@@ -1,4 +1,4 @@
-# Ссылка на ноутбук https://colab.research.google.com/drive/1HydM8JuBNVIZD9PfnAQ7sdIdJLdX4tgN?usp=sharing
+# Ссылка на colab https://colab.research.google.com/drive/1HydM8JuBNVIZD9PfnAQ7sdIdJLdX4tgN?usp=sharing
 ## Исходный датасет
 [Diamonds Prices2022.csv](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/Diamonds%20Prices2022.csv)
 ## Очищенный датасет
