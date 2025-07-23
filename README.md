@@ -7,5 +7,5 @@
 [data_utils.py](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/data_utils.py)
 [main.py](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/main.py)
 
-## ноутбук
+## Ноутбук
 [diamonds_preprocessing_practice.ipynb](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/diamonds_preprocessing_practice.ipynb)
