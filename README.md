@@ -1,12 +1,11 @@
 # Ссылка на ноутбук https://colab.research.google.com/drive/1HydM8JuBNVIZD9PfnAQ7sdIdJLdX4tgN?usp=sharing
-## исходный датасет
-Diamonds Prices2022.csv 
-## очищенный датасет
-data.csv 
-
-## Aайлы приложения
-data_utils.py
-main.py
+## Исходный датасет
+[Diamonds Prices2022.csv](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/Diamonds%20Prices2022.csv)
+## Очищенный датасет
+[data.csv](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/data.csv)
+## Файлы приложения
+[data_utils.py](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/data_utils.py)
+[main.py](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/main.py)
 
 ## ноутбук
-diamonds_preprocessing_practice.ipynb
+[diamonds_preprocessing_practice.ipynb](https://github.com/Lomikk/diamonds_data_analysis_practice-2025-Yashkov/blob/main/diamonds_preprocessing_practice.ipynb)
